@@ -170,10 +170,15 @@
   <table>
     <tr>
       <td style="padding:2px;vertical-align:top">
-        <img src="https://github-readme-stats.vercel.app/api?username=etrnkz&show_icons=true&theme=dark&bg_color=0a0a0a&border_color=dc143c&border_radius=0&title_color=dc143c&icon_color=dc143c&text_color=888&hide_border=true&count_private=true" alt="Stats"/>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=etrnkz&theme=dark" alt="Profile Details" width="100%"/>
       </td>
-      <td style="padding:2px;vertical-align:top">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=etrnkz&layout=compact&theme=dark&bg_color=0a0a0a&border_color=dc143c&border_radius=0&title_color=dc143c&text_color=888&hide_border=true" alt="Languages"/>
+    </tr>
+    <tr>
+      <td style="padding:2px;vertical-align:top;width:50%">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=etrnkz&theme=dark" alt="Stats"/>
+      </td>
+      <td style="padding:2px;vertical-align:top;width:50%">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=etrnkz&theme=dark" alt="Languages"/>
       </td>
     </tr>
   </table>
