@@ -27,20 +27,40 @@
 
 <div style="background:#050505;border:1px solid #1a1a1a;padding:18px 20px;font-family:'Courier New',monospace;font-size:13px;line-height:1.9;color:#888;transform:perspective(1000px) rotateX(1deg);box-shadow:0 4px 20px rgba(220,20,60,.06)">
 
-<span style="color:#569cd6">class</span> <span style="color:#dc143c;font-weight:700">ETRNKZ</span>:<br>
-&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:#dc143c">name</span> &nbsp;= <span style="color:#ce9178">"Etrnkz"</span><br>
-&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:#dc143c">roles</span> &nbsp;= [<span style="color:#ce9178">"Reverse Engineer"</span>, <span style="color:#ce9178">"Backend Developer"</span>]<br>
-&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:#dc143c">locale</span> &nbsp;= <span style="color:#ce9178">"Ethiopia / Goba"</span><br>
+<span style="color:#888">$</span> <span style="color:#dc143c">cat</span> /proc/etrnkz<br>
 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:#dc143c">specialization</span> = {<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:#ce9178">"core"</span>: &nbsp;[<span style="color:#999">"Task Automation"</span>, <span style="color:#999">"Bot Engineering"</span>, <span style="color:#999">"API Wrapping"</span>],<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:#ce9178">"lang"</span>: &nbsp;[<span style="color:#999">"Python"</span>, <span style="color:#999">"JavaScript"</span>, <span style="color:#999">"TypeScript"</span>, <span style="color:#999">"Rust"</span>, <span style="color:#999">"Prolog"</span>],<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:#ce9178">"stack"</span>: [<span style="color:#999">"Node.js"</span>, <span style="color:#999">"Docker"</span>, <span style="color:#999">"PostgreSQL"</span>, <span style="color:#999">"Telegram API"</span>],<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:#ce9178">"focus"</span>: [<span style="color:#999">"Reverse Engineering"</span>, <span style="color:#999">"Security Research"</span>, <span style="color:#999">"Unofficial APIs"</span>],<br>
-&nbsp;&nbsp;&nbsp;&nbsp;}<br>
+<span style="color:#888">=== SYSTEM INFORMATION ============================================</span><br>
 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:#dc143c">def</span> <span style="color:#dcdcaa">status</span>(<span style="color:#dc143c">self</span>):<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:#dc143c">return</span> <span style="color:#ce9178">"Available for work &mdash; DM on Telegram"</span>
+<span style="color:#569cd6">NAME</span>: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:#ce9178">Etrnkz</span><br>
+<span style="color:#569cd6">TYPE</span>: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:#ce9178">Reverse Engineer</span> / <span style="color:#ce9178">Backend Developer</span><br>
+<span style="color:#569cd6">LOCALE</span>: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:#ce9178">Ethiopia / Goba</span><br>
+<span style="color:#569cd6">STATUS</span>: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:#00c853">AVAILABLE</span><br>
+<br>
+<span style="color:#888">=== CAPABILITIES =================================================</span><br>
+<br>
+<span style="color:#569cd6">CORE</span>:<br>
+&nbsp;&nbsp;&#x25B8; <span style="color:#999">Task Automation</span> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:#444">[ACTIVE]</span><br>
+&nbsp;&nbsp;&#x25B8; <span style="color:#999">Bot Engineering</span> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:#444">[ACTIVE]</span><br>
+&nbsp;&nbsp;&#x25B8; <span style="color:#999">API Wrapping</span> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:#444">[ACTIVE]</span><br>
+<br>
+<span style="color:#569cd6">LANG</span>:<br>
+&nbsp;&nbsp;&#x25B8; <span style="color:#999">Python</span> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:#444">[MASTERED]</span><br>
+&nbsp;&nbsp;&#x25B8; <span style="color:#999">JavaScript</span> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:#444">[MASTERED]</span><br>
+&nbsp;&nbsp;&#x25B8; <span style="color:#999">TypeScript</span> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:#444">[PROFICIENT]</span><br>
+&nbsp;&nbsp;&#x25B8; <span style="color:#999">Rust</span> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:#444">[PROFICIENT]</span><br>
+&nbsp;&nbsp;&#x25B8; <span style="color:#999">Prolog</span> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:#444">[LEARNING]</span><br>
+<br>
+<span style="color:#569cd6">STACK</span>: <span style="color:#999">Node.js</span>, <span style="color:#999">Docker</span>, <span style="color:#999">PostgreSQL</span>, <span style="color:#999">Telegram API</span><br>
+<br>
+<span style="color:#888">=== FOCUS AREAS =================================================</span><br>
+<br>
+&nbsp;&nbsp;&#x25B8; <span style="color:#999">Reverse Engineering</span><br>
+&nbsp;&nbsp;&#x25B8; <span style="color:#999">Security Research</span><br>
+&nbsp;&nbsp;&#x25B8; <span style="color:#999">Unofficial APIs</span><br>
+<br>
+<span style="color:#888">=== CONTACT =====================================================</span><br>
+<br>
+<span style="color:#569cd6">DM</span>: <span style="color:#dc143c">@etrnkz</span> <span style="color:#444">(Telegram)</span>
 
 </div>
 
