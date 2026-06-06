@@ -9,7 +9,7 @@
 <br><br>
 
 <div style="display:flex;flex-wrap:wrap;gap:4px;justify-content:center;font-family:'Courier New',monospace">
-  <a href="https://etrnkz.vercel.app" style="display:inline-block;padding:4px 10px;font-size:9px;font-weight:700;letter-spacing:1px;text-transform:uppercase;border:1px solid #dc143c;color:#dc143c;text-decoration:none">PORTFOLIO</a>
+  <a href="https://etrnkz.vercel.app" style="display:inline-block;padding:4px 10px;font-size:9px;font-weight:700;letter-spacing:1px;text-transform:uppercase;border:1px solid #dc143c;color:#dc143c;text-decoration:none;transform:perspective(500px);transition:all .3s ease">PORTFOLIO</a>
   <a href="https://t.me/etrnkz" style="display:inline-block;padding:4px 10px;font-size:9px;font-weight:700;letter-spacing:1px;text-transform:uppercase;border:1px solid #dc143c;color:#dc143c;text-decoration:none">TELEGRAM</a>
   <a href="https://linkedin.com/in/etrnkz" style="display:inline-block;padding:4px 10px;font-size:9px;font-weight:700;letter-spacing:1px;text-transform:uppercase;border:1px solid #dc143c;color:#dc143c;text-decoration:none">LINKEDIN</a>
   <a href="https://github.com/etrnkz" style="display:inline-block;padding:4px 10px;font-size:9px;font-weight:700;letter-spacing:1px;text-transform:uppercase;border:1px solid #dc143c;color:#dc143c;text-decoration:none">GITHUB</a>
@@ -25,24 +25,22 @@
 <td style="color:#888;font-family:'Courier New',monospace;font-size:11px;letter-spacing:1px;padding:0">whoami</td>
 </tr></table>
 
-<div style="background:#050505;border:1px solid #1a1a1a;padding:16px 20px;font-family:'Courier New',monospace;font-size:13px;line-height:1.8;color:#999">
+<div style="background:#050505;border:1px solid #1a1a1a;padding:18px 20px;font-family:'Courier New',monospace;font-size:13px;line-height:1.9;color:#888;transform:perspective(1000px) rotateX(1deg);box-shadow:0 4px 20px rgba(220,20,60,.06)">
 
-```
-class ETRNKZ:
-    name      = "Etrnkz"
-    roles     = ["Reverse Engineer", "Backend Developer"]
-    locale    = "Ethiopia / Goba"
-
-    specialization = {
-        "core":  ["Task Automation", "Bot Engineering", "API Wrapping"],
-        "lang":  ["Python", "JavaScript", "TypeScript", "Rust", "Prolog"],
-        "stack": ["Node.js", "Docker", "PostgreSQL", "Telegram API"],
-        "focus": ["Reverse Engineering", "Security Research", "Unofficial APIs"],
-    }
-
-    def status(self):
-        return "Available for work - DM on Telegram"
-```
+<span style="color:#569cd6">class</span> <span style="color:#dc143c;font-weight:700">ETRNKZ</span>:<br>
+&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:#dc143c">name</span> &nbsp;= <span style="color:#ce9178">"Etrnkz"</span><br>
+&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:#dc143c">roles</span> &nbsp;= [<span style="color:#ce9178">"Reverse Engineer"</span>, <span style="color:#ce9178">"Backend Developer"</span>]<br>
+&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:#dc143c">locale</span> &nbsp;= <span style="color:#ce9178">"Ethiopia / Goba"</span><br>
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:#dc143c">specialization</span> = {<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:#ce9178">"core"</span>: &nbsp;[<span style="color:#999">"Task Automation"</span>, <span style="color:#999">"Bot Engineering"</span>, <span style="color:#999">"API Wrapping"</span>],<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:#ce9178">"lang"</span>: &nbsp;[<span style="color:#999">"Python"</span>, <span style="color:#999">"JavaScript"</span>, <span style="color:#999">"TypeScript"</span>, <span style="color:#999">"Rust"</span>, <span style="color:#999">"Prolog"</span>],<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:#ce9178">"stack"</span>: [<span style="color:#999">"Node.js"</span>, <span style="color:#999">"Docker"</span>, <span style="color:#999">"PostgreSQL"</span>, <span style="color:#999">"Telegram API"</span>],<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:#ce9178">"focus"</span>: [<span style="color:#999">"Reverse Engineering"</span>, <span style="color:#999">"Security Research"</span>, <span style="color:#999">"Unofficial APIs"</span>],<br>
+&nbsp;&nbsp;&nbsp;&nbsp;}<br>
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:#dc143c">def</span> <span style="color:#dcdcaa">status</span>(<span style="color:#dc143c">self</span>):<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:#dc143c">return</span> <span style="color:#ce9178">"Available for work &mdash; DM on Telegram"</span>
 
 </div>
 
@@ -67,14 +65,14 @@ class ETRNKZ:
 </tr></table>
 
 <div style="background:#050505;border:1px solid #1a1a1a;padding:14px;text-align:center">
-  <span style="display:inline-block;padding:3px 8px;font-size:10px;font-weight:700;letter-spacing:1px;text-transform:uppercase;border:1px solid #dc143c;color:#dc143c;margin:2px;font-family:'Courier New',monospace">Python</span>
-  <span style="display:inline-block;padding:3px 8px;font-size:10px;font-weight:700;letter-spacing:1px;text-transform:uppercase;border:1px solid #dc143c;color:#dc143c;margin:2px;font-family:'Courier New',monospace">JavaScript</span>
-  <span style="display:inline-block;padding:3px 8px;font-size:10px;font-weight:700;letter-spacing:1px;text-transform:uppercase;border:1px solid #dc143c;color:#dc143c;margin:2px;font-family:'Courier New',monospace">TypeScript</span>
-  <span style="display:inline-block;padding:3px 8px;font-size:10px;font-weight:700;letter-spacing:1px;text-transform:uppercase;border:1px solid #dc143c;color:#dc143c;margin:2px;font-family:'Courier New',monospace">Rust</span>
-  <span style="display:inline-block;padding:3px 8px;font-size:10px;font-weight:700;letter-spacing:1px;text-transform:uppercase;border:1px solid #dc143c;color:#dc143c;margin:2px;font-family:'Courier New',monospace">Node.js</span>
-  <span style="display:inline-block;padding:3px 8px;font-size:10px;font-weight:700;letter-spacing:1px;text-transform:uppercase;border:1px solid #dc143c;color:#dc143c;margin:2px;font-family:'Courier New',monospace">Prolog</span>
-  <span style="display:inline-block;padding:3px 8px;font-size:10px;font-weight:700;letter-spacing:1px;text-transform:uppercase;border:1px solid #dc143c;color:#dc143c;margin:2px;font-family:'Courier New',monospace">Docker</span>
-  <span style="display:inline-block;padding:3px 8px;font-size:10px;font-weight:700;letter-spacing:1px;text-transform:uppercase;border:1px solid #dc143c;color:#dc143c;margin:2px;font-family:'Courier New',monospace">PostgreSQL</span>
+  <span style="display:inline-block;padding:4px 10px;font-size:9px;font-weight:700;letter-spacing:1px;text-transform:uppercase;border:1px solid #dc143c;color:#dc143c;margin:2px;font-family:'Courier New',monospace">Python</span>
+  <span style="display:inline-block;padding:4px 10px;font-size:9px;font-weight:700;letter-spacing:1px;text-transform:uppercase;border:1px solid #dc143c;color:#dc143c;margin:2px;font-family:'Courier New',monospace">JavaScript</span>
+  <span style="display:inline-block;padding:4px 10px;font-size:9px;font-weight:700;letter-spacing:1px;text-transform:uppercase;border:1px solid #dc143c;color:#dc143c;margin:2px;font-family:'Courier New',monospace">TypeScript</span>
+  <span style="display:inline-block;padding:4px 10px;font-size:9px;font-weight:700;letter-spacing:1px;text-transform:uppercase;border:1px solid #dc143c;color:#dc143c;margin:2px;font-family:'Courier New',monospace">Rust</span>
+  <span style="display:inline-block;padding:4px 10px;font-size:9px;font-weight:700;letter-spacing:1px;text-transform:uppercase;border:1px solid #dc143c;color:#dc143c;margin:2px;font-family:'Courier New',monospace">Node.js</span>
+  <span style="display:inline-block;padding:4px 10px;font-size:9px;font-weight:700;letter-spacing:1px;text-transform:uppercase;border:1px solid #dc143c;color:#dc143c;margin:2px;font-family:'Courier New',monospace">Prolog</span>
+  <span style="display:inline-block;padding:4px 10px;font-size:9px;font-weight:700;letter-spacing:1px;text-transform:uppercase;border:1px solid #dc143c;color:#dc143c;margin:2px;font-family:'Courier New',monospace">Docker</span>
+  <span style="display:inline-block;padding:4px 10px;font-size:9px;font-weight:700;letter-spacing:1px;text-transform:uppercase;border:1px solid #dc143c;color:#dc143c;margin:2px;font-family:'Courier New',monospace">PostgreSQL</span>
 </div>
 
 <br>
@@ -84,31 +82,58 @@ class ETRNKZ:
 <td style="color:#888;font-family:'Courier New',monospace;font-size:11px;letter-spacing:1px;padding:0">featured projects</td>
 </tr></table>
 
-<div style="background:#050505;border:1px solid #1a1a1a;padding:16px">
+<div style="background:#050505;border:1px solid #1a1a1a;overflow:hidden">
 
-### [chatgpt-unofficial-api](https://github.com/etrnkz/chatgpt-unofficial-api)
-Unofficial Node.js client for ChatGPT. No login required.  
-`JavaScript` ★ 1
-
-### [gemini-unofficial-api](https://github.com/etrnkz/gemini-unofficial-api)
-Reverse-engineered Node.js client for Google Gemini.  
-`JavaScript` ★ 1
-
-### [NullCrypt](https://github.com/etrnkz/NullCrypt)
-Encryption tool built in Rust  
-`Rust` ★ 1
-
-### [black-box-unofficial-api](https://github.com/etrnkz/black-box-unoffcial-api)
-Unofficial API client for Blackbox AI  
-`Python` ★ 1
-
-### [fancy-Agent](https://github.com/etrnkz/fancy-Agent)
-AI agent framework  
-`Python` ★ 1
-
-### [freeDogs](https://github.com/etrnkz/freeDogs)
-Telegram clicker automation bot  
-`Python` ★ 3
+<table style="width:100%;border-collapse:collapse">
+<tr>
+<td style="width:50%;padding:10px 12px;vertical-align:top;border-right:1px solid #0f0f0f">
+<a href="https://github.com/etrnkz/chatgpt-unofficial-api" style="display:block;text-decoration:none;padding:12px;border-left:3px solid #dc143c;background:#080808;transform:perspective(800px);transition:all .3s ease">
+<div style="color:#dc143c;font-family:'Courier New',monospace;font-size:11px;font-weight:700;letter-spacing:.5px">chatgpt-unofficial-api</div>
+<div style="color:#666;font-family:'Courier New',monospace;font-size:10px;margin-top:5px;line-height:1.4">Unofficial Node.js client for ChatGPT. No login required.</div>
+<div style="color:#444;font-family:'Courier New',monospace;font-size:9px;margin-top:5px"><span style="display:inline-block;width:7px;height:7px;border-radius:50%;background:#f1e05a;margin-right:3px;vertical-align:middle"></span> JavaScript &nbsp; &#9733; 1</div>
+</a>
+</td>
+<td style="width:50%;padding:10px 12px;vertical-align:top">
+<a href="https://github.com/etrnkz/gemini-unofficial-api" style="display:block;text-decoration:none;padding:12px;border-left:3px solid #dc143c;background:#080808;transform:perspective(800px);transition:all .3s ease">
+<div style="color:#dc143c;font-family:'Courier New',monospace;font-size:11px;font-weight:700;letter-spacing:.5px">gemini-unofficial-api</div>
+<div style="color:#666;font-family:'Courier New',monospace;font-size:10px;margin-top:5px;line-height:1.4">Reverse-engineered Node.js client for Google Gemini.</div>
+<div style="color:#444;font-family:'Courier New',monospace;font-size:9px;margin-top:5px"><span style="display:inline-block;width:7px;height:7px;border-radius:50%;background:#f1e05a;margin-right:3px;vertical-align:middle"></span> JavaScript &nbsp; &#9733; 1</div>
+</a>
+</td>
+</tr>
+<tr>
+<td style="width:50%;padding:10px 12px;vertical-align:top;border-right:1px solid #0f0f0f">
+<a href="https://github.com/etrnkz/NullCrypt" style="display:block;text-decoration:none;padding:12px;border-left:3px solid #dc143c;background:#080808;transform:perspective(800px);transition:all .3s ease">
+<div style="color:#dc143c;font-family:'Courier New',monospace;font-size:11px;font-weight:700;letter-spacing:.5px">NullCrypt</div>
+<div style="color:#666;font-family:'Courier New',monospace;font-size:10px;margin-top:5px;line-height:1.4">Encryption tool built in Rust</div>
+<div style="color:#444;font-family:'Courier New',monospace;font-size:9px;margin-top:5px"><span style="display:inline-block;width:7px;height:7px;border-radius:50%;background:#dea584;margin-right:3px;vertical-align:middle"></span> Rust &nbsp; &#9733; 1</div>
+</a>
+</td>
+<td style="width:50%;padding:10px 12px;vertical-align:top">
+<a href="https://github.com/etrnkz/black-box-unoffcial-api" style="display:block;text-decoration:none;padding:12px;border-left:3px solid #dc143c;background:#080808;transform:perspective(800px);transition:all .3s ease">
+<div style="color:#dc143c;font-family:'Courier New',monospace;font-size:11px;font-weight:700;letter-spacing:.5px">black-box-unofficial-api</div>
+<div style="color:#666;font-family:'Courier New',monospace;font-size:10px;margin-top:5px;line-height:1.4">Unofficial API client for Blackbox AI</div>
+<div style="color:#444;font-family:'Courier New',monospace;font-size:9px;margin-top:5px"><span style="display:inline-block;width:7px;height:7px;border-radius:50%;background:#3572A5;margin-right:3px;vertical-align:middle"></span> Python &nbsp; &#9733; 1</div>
+</a>
+</td>
+</tr>
+<tr>
+<td style="width:50%;padding:10px 12px;vertical-align:top;border-right:1px solid #0f0f0f">
+<a href="https://github.com/etrnkz/fancy-Agent" style="display:block;text-decoration:none;padding:12px;border-left:3px solid #dc143c;background:#080808;transform:perspective(800px);transition:all .3s ease">
+<div style="color:#dc143c;font-family:'Courier New',monospace;font-size:11px;font-weight:700;letter-spacing:.5px">fancy-Agent</div>
+<div style="color:#666;font-family:'Courier New',monospace;font-size:10px;margin-top:5px;line-height:1.4">AI agent framework</div>
+<div style="color:#444;font-family:'Courier New',monospace;font-size:9px;margin-top:5px"><span style="display:inline-block;width:7px;height:7px;border-radius:50%;background:#3572A5;margin-right:3px;vertical-align:middle"></span> Python &nbsp; &#9733; 1</div>
+</a>
+</td>
+<td style="width:50%;padding:10px 12px;vertical-align:top">
+<a href="https://github.com/etrnkz/freeDogs" style="display:block;text-decoration:none;padding:12px;border-left:3px solid #dc143c;background:#080808;transform:perspective(800px);transition:all .3s ease">
+<div style="color:#dc143c;font-family:'Courier New',monospace;font-size:11px;font-weight:700;letter-spacing:.5px">freeDogs</div>
+<div style="color:#666;font-family:'Courier New',monospace;font-size:10px;margin-top:5px;line-height:1.4">Telegram clicker automation bot</div>
+<div style="color:#444;font-family:'Courier New',monospace;font-size:9px;margin-top:5px"><span style="display:inline-block;width:7px;height:7px;border-radius:50%;background:#3572A5;margin-right:3px;vertical-align:middle"></span> Python &nbsp; &#9733; 3</div>
+</a>
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -127,9 +152,9 @@ Telegram clicker automation bot
 
 <div align="center" style="font-family:'Courier New',monospace">
 
-`$ **Let's build something.**`
-
-<br>
+<div style="color:#888;font-size:13px;letter-spacing:1px;margin-bottom:14px">
+$ <span style="color:#dc143c">Let's build something.</span>
+</div>
 
 <div style="display:flex;flex-wrap:wrap;gap:4px;justify-content:center">
   <a href="https://t.me/etrnkz" style="display:inline-block;padding:4px 10px;font-size:9px;font-weight:700;letter-spacing:1px;text-transform:uppercase;border:1px solid #dc143c;color:#dc143c;text-decoration:none">DM ON TELEGRAM</a>
@@ -139,10 +164,14 @@ Telegram clicker automation bot
 
 <br>
 
-> "I don't break things — I understand how they work."
+<div style="color:#555;font-style:italic;font-size:12px;padding:10px 14px;border-left:2px solid #dc143c;background:#050505;max-width:420px;margin:0 auto;line-height:1.5">
+&ldquo;I don't break things &mdash; I understand how they work.&rdquo;
+</div>
 
 <br>
 
-<sub><span style="color:#333;letter-spacing:1px">[ process exited with code 0x0 ]</span></sub>
+<div style="font-size:9px;color:#333;letter-spacing:1px">
+[ process exited with code 0x0 ]
+</div>
 
 </div>
