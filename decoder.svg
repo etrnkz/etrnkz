@@ -1,0 +1,86 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 200" width="640" height="200">
+  <defs>
+    <style>
+      @keyframes scan { 0%{transform:translateY(0);opacity:0} 10%{opacity:1} 90%{opacity:1} 100%{transform:translateY(160px);opacity:0} }
+      @keyframes pop { 0%{opacity:0;transform:scale(.3)} 60%{opacity:1;transform:scale(1.08)} 100%{opacity:1;transform:scale(1)} }
+      @keyframes glow { 0%,100%{opacity:.5} 50%{opacity:1} }
+      @keyframes float { 0%,100%{transform:translateY(0)} 50%{transform:translateY(-2px)} }
+      @keyframes fill { 0%{width:0} 100%{width:420} }
+      @keyframes slide { 0%{transform:translateX(-100px)} 100%{transform:translateX(520px)} }
+      .scanline { animation:scan 4s ease-in-out infinite }
+      .cell { opacity:0; animation:pop .5s ease-out forwards }
+      .c2 { animation-delay:.3s } .c3 { animation-delay:.5s }
+      .c4 { animation-delay:.7s } .c5 { animation-delay:.9s } .c6 { animation-delay:1.1s }
+      .arrow { animation:float 2s ease-in-out infinite }
+      .glow { animation:glow 2s ease-in-out infinite }
+      .bar { animation:fill 2.5s ease-out .5s forwards }
+      .shimmer { animation:slide 1.5s ease-in-out infinite }
+    </style>
+  </defs>
+
+  <rect width="640" height="200" fill="#050505" stroke="#1a1a1a" stroke-width="1"/>
+
+  <path d="M0,0 h18 M0,0 v18" stroke="#dc143c" stroke-width="2" fill="none"/>
+  <path d="M640,0 h-18 M640,0 v18" stroke="#dc143c" stroke-width="2" fill="none"/>
+  <path d="M0,200 h18 M0,200 v-18" stroke="#dc143c" stroke-width="2" fill="none"/>
+  <path d="M640,200 h-18 M640,200 v-18" stroke="#dc143c" stroke-width="2" fill="none"/>
+
+  <line class="scanline" x1="0" y1="0" x2="640" y2="0" stroke="rgba(220,20,60,.35)" stroke-width="1.5"/>
+
+  <text x="320" y="28" text-anchor="middle" font-family="'Courier New',monospace" font-size="9" fill="#444" letter-spacing="3">
+    decoding <tspan fill="#dc143c">identity</tspan>
+  </text>
+
+  <!-- E -->
+  <g class="cell"><rect x="52" y="44" width="72" height="86" fill="#080808" stroke="#222" stroke-width="1"/>
+    <text x="88" y="66" text-anchor="middle" font-family="'Courier New',monospace" font-size="11" fill="#555">0x45</text>
+    <text class="arrow" x="88" y="82" text-anchor="middle" font-family="monospace" font-size="10" fill="#dc143c">&#x25BC;</text>
+    <text class="glow" x="88" y="118" text-anchor="middle" font-family="'Courier New',monospace" font-size="34" font-weight="900" fill="#dc143c">E</text>
+  </g>
+
+  <!-- T -->
+  <g class="cell c2"><rect x="134" y="44" width="72" height="86" fill="#080808" stroke="#222" stroke-width="1"/>
+    <text x="170" y="66" text-anchor="middle" font-family="'Courier New',monospace" font-size="11" fill="#555">0x54</text>
+    <text class="arrow" x="170" y="82" text-anchor="middle" font-family="monospace" font-size="10" fill="#dc143c">&#x25BC;</text>
+    <text class="glow" x="170" y="118" text-anchor="middle" font-family="'Courier New',monospace" font-size="34" font-weight="900" fill="#dc143c">T</text>
+  </g>
+
+  <!-- R -->
+  <g class="cell c3"><rect x="216" y="44" width="72" height="86" fill="#080808" stroke="#222" stroke-width="1"/>
+    <text x="252" y="66" text-anchor="middle" font-family="'Courier New',monospace" font-size="11" fill="#555">0x52</text>
+    <text class="arrow" x="252" y="82" text-anchor="middle" font-family="monospace" font-size="10" fill="#dc143c">&#x25BC;</text>
+    <text class="glow" x="252" y="118" text-anchor="middle" font-family="'Courier New',monospace" font-size="34" font-weight="900" fill="#dc143c">R</text>
+  </g>
+
+  <!-- N -->
+  <g class="cell c4"><rect x="298" y="44" width="72" height="86" fill="#080808" stroke="#222" stroke-width="1"/>
+    <text x="334" y="66" text-anchor="middle" font-family="'Courier New',monospace" font-size="11" fill="#555">0x4E</text>
+    <text class="arrow" x="334" y="82" text-anchor="middle" font-family="monospace" font-size="10" fill="#dc143c">&#x25BC;</text>
+    <text class="glow" x="334" y="118" text-anchor="middle" font-family="'Courier New',monospace" font-size="34" font-weight="900" fill="#dc143c">N</text>
+  </g>
+
+  <!-- K -->
+  <g class="cell c5"><rect x="380" y="44" width="72" height="86" fill="#080808" stroke="#222" stroke-width="1"/>
+    <text x="416" y="66" text-anchor="middle" font-family="'Courier New',monospace" font-size="11" fill="#555">0x4B</text>
+    <text class="arrow" x="416" y="82" text-anchor="middle" font-family="monospace" font-size="10" fill="#dc143c">&#x25BC;</text>
+    <text class="glow" x="416" y="118" text-anchor="middle" font-family="'Courier New',monospace" font-size="34" font-weight="900" fill="#dc143c">K</text>
+  </g>
+
+  <!-- Z -->
+  <g class="cell c6"><rect x="462" y="44" width="72" height="86" fill="#080808" stroke="#222" stroke-width="1"/>
+    <text x="498" y="66" text-anchor="middle" font-family="'Courier New',monospace" font-size="11" fill="#555">0x5A</text>
+    <text class="arrow" x="498" y="82" text-anchor="middle" font-family="monospace" font-size="10" fill="#dc143c">&#x25BC;</text>
+    <text class="glow" x="498" y="118" text-anchor="middle" font-family="'Courier New',monospace" font-size="34" font-weight="900" fill="#dc143c">Z</text>
+  </g>
+
+  <text x="20" y="172" font-family="'Courier New',monospace" font-size="9" fill="#444" letter-spacing="2">DECODING</text>
+  <text x="620" y="172" text-anchor="end" font-family="'Courier New',monospace" font-size="9" fill="#444" letter-spacing="2">
+    <tspan fill="#dc143c">0x</tspan>100%
+  </text>
+
+  <rect x="90" y="165" width="440" height="2" fill="#111"/>
+  <rect class="bar" x="90" y="165" height="2" fill="#dc143c"/>
+  <rect class="shimmer" x="90" y="165" width="80" height="2" fill="rgba(255,255,255,.12)" opacity="0">
+    <animate attributeName="opacity" values="0;.4;0" dur="1.5s" repeatCount="indefinite"/>
+  </rect>
+</svg>
