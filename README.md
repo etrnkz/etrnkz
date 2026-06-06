@@ -46,9 +46,9 @@
 <div style="margin:20px 0;font-family:'Courier New',monospace">
 <div style="color:#dc143c;font-size:10px;letter-spacing:1px;margin-bottom:6px">0x0010 | stats</div>
 <div style="background:#050505;border:1px solid #1a1a1a;padding:16px;text-align:center">
-<img src="https://img.shields.io/badge/TOTAL_STARS-97-dc143c?style=for-the-badge&labelColor=111" alt="Stars"/>
-<img src="https://img.shields.io/badge/FOLLOWERS-117-dc143c?style=for-the-badge&labelColor=111" alt="Followers"/>
-<img src="https://img.shields.io/badge/REPOS-25-dc143c?style=for-the-badge&labelColor=111" alt="Repos"/>
+<img src="https://img.shields.io/badge/STARS-97-dc143c?style=for-the-badge&amp;labelColor=111" alt="Stars"/>
+<img src="https://img.shields.io/badge/FOLLOWERS-117-dc143c?style=for-the-badge&amp;labelColor=111" alt="Followers"/>
+<img src="https://img.shields.io/badge/REPOS-25-dc143c?style=for-the-badge&amp;labelColor=111" alt="Repos"/>
 </div>
 </div>
 
