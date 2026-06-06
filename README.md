@@ -1,31 +1,36 @@
 <div align="center">
 
-<img src="decoder.svg" alt="ETRNKZ Decoder" width="100%" style="max-width:660px">
+<pre style="background:#050505;border:1px solid #1a1a1a;padding:20px 16px;font-family:'Courier New',monospace;color:#dc143c;font-size:13px;line-height:1.6;max-width:520px;transform:perspective(800px) rotateX(2deg);box-shadow:0 4px 20px rgba(220,20,60,.08)">
+  ╔══════════════════════════════════╗
+  ║  REVERSE ENGINEERING :: DECODE   ║
+  ╠══════════════════════════════════╣
+  ║  0x45  0x54  0x52  0x4E  0x4B  0x5A  ║
+  ║   E     T     R     N     K     Z   ║
+  ╚══════════════════════════════════╝
+</pre>
 
-<br>
-
-<span style="color:#888;font-size:11px;letter-spacing:2px;font-family:'Courier New',monospace">// reverse.engineer &nbsp;|&nbsp; bot_eng &nbsp;|&nbsp; eth/goba</span>
+<span style="color:#888;font-size:11px;letter-spacing:2px;font-family:'Courier New',monospace">// reverse.engineer  |  bot_eng  |  eth/goba</span>
 
 <br><br>
 
-<div style="display:flex;flex-wrap:wrap;gap:4px;justify-content:center;font-family:'Courier New',monospace">
-  <a href="https://etrnkz.vercel.app" style="display:inline-block;padding:4px 10px;font-size:9px;font-weight:700;letter-spacing:1px;text-transform:uppercase;border:1px solid #dc143c;color:#dc143c;text-decoration:none">PORTFOLIO</a>
-  <a href="https://t.me/etrnkz" style="display:inline-block;padding:4px 10px;font-size:9px;font-weight:700;letter-spacing:1px;text-transform:uppercase;border:1px solid #dc143c;color:#dc143c;text-decoration:none">TELEGRAM</a>
-  <a href="https://linkedin.com/in/etrnkz" style="display:inline-block;padding:4px 10px;font-size:9px;font-weight:700;letter-spacing:1px;text-transform:uppercase;border:1px solid #dc143c;color:#dc143c;text-decoration:none">LINKEDIN</a>
-  <a href="https://github.com/etrnkz" style="display:inline-block;padding:4px 10px;font-size:9px;font-weight:700;letter-spacing:1px;text-transform:uppercase;border:1px solid #dc143c;color:#dc143c;text-decoration:none">GITHUB</a>
-  <span style="display:inline-block;padding:4px 10px;font-size:9px;font-weight:700;letter-spacing:1px;text-transform:uppercase;border:1px solid #00c853;color:#00c853">AVAILABLE FOR WORK</span>
+<div style="display:flex;flex-wrap:wrap;gap:4px;justify-content:center">
+  <span style="display:inline-block;padding:4px 10px;font-size:9px;font-weight:700;letter-spacing:1px;text-transform:uppercase;border:1px solid #dc143c;color:#dc143c;font-family:'Courier New',monospace"><a href="https://etrnkz.vercel.app" style="color:#dc143c;text-decoration:none">PORTFOLIO</a></span>
+  <span style="display:inline-block;padding:4px 10px;font-size:9px;font-weight:700;letter-spacing:1px;text-transform:uppercase;border:1px solid #dc143c;color:#dc143c;font-family:'Courier New',monospace"><a href="https://t.me/etrnkz" style="color:#dc143c;text-decoration:none">TELEGRAM</a></span>
+  <span style="display:inline-block;padding:4px 10px;font-size:9px;font-weight:700;letter-spacing:1px;text-transform:uppercase;border:1px solid #dc143c;color:#dc143c;font-family:'Courier New',monospace"><a href="https://linkedin.com/in/etrnkz" style="color:#dc143c;text-decoration:none">LINKEDIN</a></span>
+  <span style="display:inline-block;padding:4px 10px;font-size:9px;font-weight:700;letter-spacing:1px;text-transform:uppercase;border:1px solid #dc143c;color:#dc143c;font-family:'Courier New',monospace"><a href="https://github.com/etrnkz" style="color:#dc143c;text-decoration:none">GITHUB</a></span>
+  <span style="display:inline-block;padding:4px 10px;font-size:9px;font-weight:700;letter-spacing:1px;text-transform:uppercase;border:1px solid #00c853;color:#00c853;font-family:'Courier New',monospace">AVAILABLE FOR WORK</span>
 </div>
 
 </div>
 
 <br>
 
-<table><tr>
-<td width="52" valign="top" style="color:#dc143c;font-family:'Courier New',monospace;font-size:11px;font-weight:700;padding:0">0x0000</td>
-<td style="color:#888;font-family:'Courier New',monospace;font-size:11px;letter-spacing:1px;padding:0">whoami</td>
-</tr></table>
+<table>
+<tr><td width="52" valign="top" style="color:#dc143c;font-family:'Courier New',monospace;font-size:11px;font-weight:700;padding:0">0x0000</td>
+<td style="color:#555;font-family:'Courier New',monospace;font-size:11px;letter-spacing:1px;padding:0">whoami</td></tr>
+</table>
 
-<div style="background:#050505;border:1px solid #1a1a1a;padding:16px 20px;font-family:'Courier New',monospace;font-size:13px;line-height:1.8;color:#999">
+<div style="background:#050505;border:1px solid #1a1a1a;padding:14px 18px;font-family:'Courier New',monospace;font-size:13px;line-height:1.8;color:#666">
 
 ```
 class ETRNKZ:
@@ -48,23 +53,25 @@ class ETRNKZ:
 
 <br>
 
-<table><tr>
-<td width="52" valign="top" style="color:#dc143c;font-family:'Courier New',monospace;font-size:11px;font-weight:700;padding:0">0x0010</td>
-<td style="color:#888;font-family:'Courier New',monospace;font-size:11px;letter-spacing:1px;padding:0">analytics</td>
-</tr></table>
+<table>
+<tr><td width="52" valign="top" style="color:#dc143c;font-family:'Courier New',monospace;font-size:11px;font-weight:700;padding:0">0x0010</td>
+<td style="color:#555;font-family:'Courier New',monospace;font-size:11px;letter-spacing:1px;padding:0">analytics</td></tr>
+</table>
 
 <div style="background:#050505;border:1px solid #1a1a1a;padding:16px;text-align:center">
   <img src="https://img.shields.io/badge/STARS-97-dc143c?style=for-the-badge&amp;labelColor=111" alt="Stars">
   <img src="https://img.shields.io/badge/FOLLOWERS-117-dc143c?style=for-the-badge&amp;labelColor=111" alt="Followers">
   <img src="https://img.shields.io/badge/REPOS-25-dc143c?style=for-the-badge&amp;labelColor=111" alt="Repos">
+  <br><br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=etrnkz&bg_color=0a0a0a&color=dc143c&line=dc143c&point=fff&area=true&area_color=dc143c20&hide_border=true" alt="Activity" width="100%">
 </div>
 
 <br>
 
-<table><tr>
-<td width="52" valign="top" style="color:#dc143c;font-family:'Courier New',monospace;font-size:11px;font-weight:700;padding:0">0x0020</td>
-<td style="color:#888;font-family:'Courier New',monospace;font-size:11px;letter-spacing:1px;padding:0">tech stack</td>
-</tr></table>
+<table>
+<tr><td width="52" valign="top" style="color:#dc143c;font-family:'Courier New',monospace;font-size:11px;font-weight:700;padding:0">0x0020</td>
+<td style="color:#555;font-family:'Courier New',monospace;font-size:11px;letter-spacing:1px;padding:0">tech stack</td></tr>
+</table>
 
 <div style="background:#050505;border:1px solid #1a1a1a;padding:14px;text-align:center">
   <span style="display:inline-block;padding:3px 8px;font-size:10px;font-weight:700;letter-spacing:1px;text-transform:uppercase;border:1px solid #dc143c;color:#dc143c;margin:2px;font-family:'Courier New',monospace">Python</span>
@@ -79,48 +86,71 @@ class ETRNKZ:
 
 <br>
 
-<table><tr>
-<td width="52" valign="top" style="color:#dc143c;font-family:'Courier New',monospace;font-size:11px;font-weight:700;padding:0">0x0030</td>
-<td style="color:#888;font-family:'Courier New',monospace;font-size:11px;letter-spacing:1px;padding:0">featured projects</td>
-</tr></table>
+<table>
+<tr><td width="52" valign="top" style="color:#dc143c;font-family:'Courier New',monospace;font-size:11px;font-weight:700;padding:0">0x0030</td>
+<td style="color:#555;font-family:'Courier New',monospace;font-size:11px;letter-spacing:1px;padding:0">featured projects</td></tr>
+</table>
 
-<div style="background:#050505;border:1px solid #1a1a1a;padding:16px">
+<table>
+<tr>
+<td width="50%" style="padding:4px">
 
 ### [chatgpt-unofficial-api](https://github.com/etrnkz/chatgpt-unofficial-api)
-Unofficial Node.js client for ChatGPT. No login required.  
+Unofficial Node.js client for ChatGPT.  
 `JavaScript` ★ 1
+
+</td>
+<td width="50%" style="padding:4px">
 
 ### [gemini-unofficial-api](https://github.com/etrnkz/gemini-unofficial-api)
 Reverse-engineered Node.js client for Google Gemini.  
 `JavaScript` ★ 1
 
+</td>
+</tr>
+<tr>
+<td width="50%" style="padding:4px">
+
 ### [NullCrypt](https://github.com/etrnkz/NullCrypt)
 Encryption tool built in Rust  
 `Rust` ★ 1
+
+</td>
+<td width="50%" style="padding:4px">
 
 ### [black-box-unofficial-api](https://github.com/etrnkz/black-box-unoffcial-api)
 Unofficial API client for Blackbox AI  
 `Python` ★ 1
 
+</td>
+</tr>
+<tr>
+<td width="50%" style="padding:4px">
+
 ### [fancy-Agent](https://github.com/etrnkz/fancy-Agent)
 AI agent framework  
 `Python` ★ 1
+
+</td>
+<td width="50%" style="padding:4px">
 
 ### [freeDogs](https://github.com/etrnkz/freeDogs)
 Telegram clicker automation bot  
 `Python` ★ 3
 
-</div>
+</td>
+</tr>
+</table>
 
 <br>
 
-<table><tr>
-<td width="52" valign="top" style="color:#dc143c;font-family:'Courier New',monospace;font-size:11px;font-weight:700;padding:0">0x0040</td>
-<td style="color:#888;font-family:'Courier New',monospace;font-size:11px;letter-spacing:1px;padding:0">recent activity</td>
-</tr></table>
+<table>
+<tr><td width="52" valign="top" style="color:#dc143c;font-family:'Courier New',monospace;font-size:11px;font-weight:700;padding:0">0x0040</td>
+<td style="color:#555;font-family:'Courier New',monospace;font-size:11px;letter-spacing:1px;padding:0">recent activity</td></tr>
+</table>
 
 <!--RECENT_ACTIVITY_START-->
-<div style="background:#050505;border:1px solid #1a1a1a;padding:16px;text-align:center;color:#444;font-family:'Courier New',monospace;font-size:12px">&gt;_ fetching latest activity...</div>
+<div style="background:#050505;border:1px solid #1a1a1a;padding:16px;text-align:center;color:#444;font-family:'Courier New',monospace;font-size:12px">>_ fetching latest activity...</div>
 <!--RECENT_ACTIVITY_END-->
 
 <br>
@@ -132,8 +162,8 @@ Telegram clicker automation bot
 <br>
 
 <div style="display:flex;flex-wrap:wrap;gap:4px;justify-content:center">
-  <a href="https://t.me/etrnkz" style="display:inline-block;padding:4px 10px;font-size:9px;font-weight:700;letter-spacing:1px;text-transform:uppercase;border:1px solid #dc143c;color:#dc143c;text-decoration:none">DM ON TELEGRAM</a>
-  <a href="mailto:" style="display:inline-block;padding:4px 10px;font-size:9px;font-weight:700;letter-spacing:1px;text-transform:uppercase;border:1px solid #dc143c;color:#dc143c;text-decoration:none">EMAIL</a>
+  <span style="display:inline-block;padding:4px 10px;font-size:9px;font-weight:700;letter-spacing:1px;text-transform:uppercase;border:1px solid #dc143c;color:#dc143c"><a href="https://t.me/etrnkz" style="color:#dc143c;text-decoration:none">DM ON TELEGRAM</a></span>
+  <span style="display:inline-block;padding:4px 10px;font-size:9px;font-weight:700;letter-spacing:1px;text-transform:uppercase;border:1px solid #dc143c;color:#dc143c"><a href="mailto:" style="color:#dc143c;text-decoration:none">EMAIL</a></span>
   <span style="display:inline-block;padding:4px 10px;font-size:9px;font-weight:700;letter-spacing:1px;text-transform:uppercase;border:1px solid #333;color:#666">VISITORS: --</span>
 </div>
 
