@@ -1,11 +1,4 @@
-```
-╔══════════════════════════════════╗
-║  REVERSE ENGINEERING :: DECODE   ║
-╠══════════════════════════════════╣
-║  0x45  0x54  0x52  0x4E  0x4B  0x5A  ║
-║   E     T     R     N     K     Z   ║
-╚══════════════════════════════════╝
-```
+<img src="https://raw.githubusercontent.com/etrnkz/etrnkz/master/decoder.svg" alt="ETRNKZ Decoder" width="100%">
 
 ```
 // reverse.engineer | bot_eng | eth/goba
