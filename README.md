@@ -22,66 +22,56 @@
 
 <div align="center">
 
+```rust
+struct Etrnkz {
+    name:     &str = "Etrnkz",
+    role:     &str = "Reverse Engineer / Backend Developer",
+    locale:   &str = "Ethiopia / Goba",
+    status:   &str = "AVAILABLE",
+}
 ```
-$ ./whoami --decode --raw
-```
-
-<br/>
-
-| ![](https://img.shields.io/badge/NAME-dc143c?style=for-the-badge&labelColor=111) | **Etrnkz** |
-|:---:|:---|
-
-| ![](https://img.shields.io/badge/TYPE-dc143c?style=for-the-badge&labelColor=111) | **Reverse Engineer** / **Backend Developer** |
-|:---:|:---|
-
-| ![](https://img.shields.io/badge/LOCALE-dc143c?style=for-the-badge&labelColor=111) | Ethiopia / Goba |
-|:---:|:---|
-
-| ![](https://img.shields.io/badge/STATUS-dc143c?style=for-the-badge&labelColor=111) | ![](https://img.shields.io/badge/AVAILABLE-00c853?style=for-the-badge) |
-|:---:|:---|
 
 </div>
 
-```
-=== CAPABILITIES =================================================
-```
-
-| ![](https://img.shields.io/badge/CORE-dc143c?style=for-the-badge&labelColor=111) | |
-|:---:|:---|
-| `▸` | **Task Automation** &nbsp; ![](https://img.shields.io/badge/ACTIVE-00c853?style=flat-square) |
-| `▸` | **Bot Engineering** &nbsp; ![](https://img.shields.io/badge/ACTIVE-00c853?style=flat-square) |
-| `▸` | **API Wrapping** &nbsp; &nbsp;&nbsp;&nbsp; ![](https://img.shields.io/badge/ACTIVE-00c853?style=flat-square) |
+### &nbsp;`> capabilities`
 
 <br/>
 
-| ![](https://img.shields.io/badge/LANG-dc143c?style=for-the-badge&labelColor=111) | |
-|:---:|:---|
-| `▸` | **Python** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![](https://img.shields.io/badge/MASTERED-dc143c?style=flat-square) |
-| `▸` | **JavaScript** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![](https://img.shields.io/badge/MASTERED-dc143c?style=flat-square) |
-| `▸` | **TypeScript** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![](https://img.shields.io/badge/PROFICIENT-ff8c00?style=flat-square) |
-| `▸` | **Rust** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![](https://img.shields.io/badge/PROFICIENT-ff8c00?style=flat-square) |
-| `▸` | **Prolog** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![](https://img.shields.io/badge/LEARNING-555?style=flat-square) |
+- ▸ **Task Automation** &nbsp; ![](https://img.shields.io/badge/ACTIVE-00c853?style=flat-square)
+- ▸ **Bot Engineering** &nbsp; ![](https://img.shields.io/badge/ACTIVE-00c853?style=flat-square)
+- ▸ **API Wrapping** &nbsp; &nbsp;&nbsp;&nbsp; ![](https://img.shields.io/badge/ACTIVE-00c853?style=flat-square)
 
 <br/>
 
-| ![](https://img.shields.io/badge/STACK-dc143c?style=for-the-badge&labelColor=111) | `Node.js` `Docker` `PostgreSQL` `Telegram API` |
-|:---:|:---|
+### &nbsp;`> languages`
 
-```
-=== FOCUS AREAS =================================================
-```
+<br/>
 
-| `▸` | **Reverse Engineering** |
-|:---:|:---|
-| `▸` | **Security Research** |
-| `▸` | **Unofficial APIs** |
+- ▸ **Python** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![](https://img.shields.io/badge/MASTERED-dc143c?style=flat-square)
+- ▸ **JavaScript** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![](https://img.shields.io/badge/MASTERED-dc143c?style=flat-square)
+- ▸ **TypeScript** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![](https://img.shields.io/badge/PROFICIENT-ff8c00?style=flat-square)
+- ▸ **Rust** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![](https://img.shields.io/badge/PROFICIENT-ff8c00?style=flat-square)
+- ▸ **Prolog** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![](https://img.shields.io/badge/LEARNING-555?style=flat-square)
 
-```
-=== CONTACT =====================================================
-```
+<br/>
 
-| ![](https://img.shields.io/badge/DM-dc143c?style=for-the-badge&labelColor=111) | [@etrnkz](https://t.me/etrnkz) **(Telegram)** |
-|:---:|:---|
+### &nbsp;`> stack`
+
+`Node.js` `Docker` `PostgreSQL` `Telegram API`
+
+<br/>
+
+### &nbsp;`> focus`
+
+- ▸ **Reverse Engineering**
+- ▸ **Security Research**
+- ▸ **Unofficial APIs**
+
+<br/>
+
+### &nbsp;`> contact`
+
+**DM:** [@etrnkz](https://t.me/etrnkz) **(Telegram)**
 
 <br clear="right"/>
 
@@ -108,9 +98,9 @@ $ ./whoami --decode --raw
 
 <div align="center">
 
-[![DM on Telegram](https://img.shields.io/badge/DM%20on%20Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=dc143c)](https://t.me/etrnkz)
-[![Hire Me](https://img.shields.io/badge/Hire%20Me-dc143c?style=for-the-badge&logo=gmail&logoColor=000000)](mailto:)
-[![See My Work](https://img.shields.io/badge/◈%20See%20My%20Work-000000?style=for-the-badge&logo=vercel&logoColor=dc143c)](https://etrnkz.vercel.app)
+[![DM on Telegram](https://img.shields.io/badge/DM%20on%20Telegram-272822?style=for-the-badge&logo=telegram&logoColor=ae81ff&labelColor=1e1f1c)](https://t.me/etrnkz)
+[![Hire Me](https://img.shields.io/badge/Hire%20Me-272822?style=for-the-badge&logo=gmail&logoColor=f92672&labelColor=1e1f1c)](mailto:)
+[![See My Work](https://img.shields.io/badge/◈%20See%20My%20Work-272822?style=for-the-badge&logo=vercel&logoColor=66d9ef&labelColor=1e1f1c)](https://etrnkz.vercel.app)
 
 <br/>
 
