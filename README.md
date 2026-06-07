@@ -20,38 +20,68 @@
 
 ### &nbsp;`$ cat /proc/etrnkz`
 
-```python
-class Etrnkz:
-    name     = "Etrnkz"
-    location = "Ethiopia / Goba"
-    role     = "Reverse Engineer / Backend Developer"
-    status   = "AVAILABLE"
+<div align="center">
 
-    core = [
-        "Task Automation",
-        "Bot Engineering",
-        "API Wrapping",
-    ]
-
-    lang = {
-        "Python"      : "MASTERED",
-        "JavaScript"  : "MASTERED",
-        "TypeScript"  : "PROFICIENT",
-        "Rust"        : "PROFICIENT",
-        "Prolog"      : "LEARNING",
-    }
-
-    stack = ["Node.js", "Docker", "PostgreSQL", "Telegram API"]
-
-    focus = [
-        "Reverse Engineering",
-        "Security Research",
-        "Unofficial APIs",
-    ]
-
-    def philosophy(self):
-        return "I don't break things — I understand how they work."
 ```
+$ ./whoami --decode --raw
+```
+
+<br/>
+
+| ![](https://img.shields.io/badge/NAME-dc143c?style=for-the-badge&labelColor=111) | **Etrnkz** |
+|:---:|:---|
+
+| ![](https://img.shields.io/badge/TYPE-dc143c?style=for-the-badge&labelColor=111) | **Reverse Engineer** / **Backend Developer** |
+|:---:|:---|
+
+| ![](https://img.shields.io/badge/LOCALE-dc143c?style=for-the-badge&labelColor=111) | Ethiopia / Goba |
+|:---:|:---|
+
+| ![](https://img.shields.io/badge/STATUS-dc143c?style=for-the-badge&labelColor=111) | ![](https://img.shields.io/badge/AVAILABLE-00c853?style=for-the-badge) |
+|:---:|:---|
+
+</div>
+
+```
+=== CAPABILITIES =================================================
+```
+
+| ![](https://img.shields.io/badge/CORE-dc143c?style=for-the-badge&labelColor=111) | |
+|:---:|:---|
+| `▸` | **Task Automation** &nbsp; ![](https://img.shields.io/badge/ACTIVE-00c853?style=flat-square) |
+| `▸` | **Bot Engineering** &nbsp; ![](https://img.shields.io/badge/ACTIVE-00c853?style=flat-square) |
+| `▸` | **API Wrapping** &nbsp; &nbsp;&nbsp;&nbsp; ![](https://img.shields.io/badge/ACTIVE-00c853?style=flat-square) |
+
+<br/>
+
+| ![](https://img.shields.io/badge/LANG-dc143c?style=for-the-badge&labelColor=111) | |
+|:---:|:---|
+| `▸` | **Python** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![](https://img.shields.io/badge/MASTERED-dc143c?style=flat-square) |
+| `▸` | **JavaScript** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![](https://img.shields.io/badge/MASTERED-dc143c?style=flat-square) |
+| `▸` | **TypeScript** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![](https://img.shields.io/badge/PROFICIENT-ff8c00?style=flat-square) |
+| `▸` | **Rust** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![](https://img.shields.io/badge/PROFICIENT-ff8c00?style=flat-square) |
+| `▸` | **Prolog** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![](https://img.shields.io/badge/LEARNING-555?style=flat-square) |
+
+<br/>
+
+| ![](https://img.shields.io/badge/STACK-dc143c?style=for-the-badge&labelColor=111) | `Node.js` `Docker` `PostgreSQL` `Telegram API` |
+|:---:|:---|
+
+```
+=== FOCUS AREAS =================================================
+```
+
+| `▸` | **Reverse Engineering** |
+|:---:|:---|
+| `▸` | **Security Research** |
+| `▸` | **Unofficial APIs** |
+
+```
+=== CONTACT =====================================================
+```
+
+| ![](https://img.shields.io/badge/DM-dc143c?style=for-the-badge&labelColor=111) | [@etrnkz](https://t.me/etrnkz) **(Telegram)** |
+|:---:|:---|
 
 <br clear="right"/>
 
