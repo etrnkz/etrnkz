@@ -13,9 +13,6 @@
 [![Available](https://img.shields.io/badge/AVAILABLE-272822?style=for-the-badge&logoColor=a6e22e&labelColor=1e1f1c)](https://t.me/etrnkz)
 
 </div>
-
-<br/>
-
 <div>
 
 ```rust
@@ -28,15 +25,5 @@ FOCUS ▸ Reverse Engineering  Security Research  Unofficial APIs
 ```
 
 </div>
-
-
-<br/>
-
 <div align="center">
-
-[![DM on Telegram](https://img.shields.io/badge/DM%20on%20Telegram-272822?style=for-the-badge&logo=telegram&logoColor=ae81ff&labelColor=1e1f1c)](https://t.me/etrnkz)
-[![Hire Me](https://img.shields.io/badge/Hire%20Me-272822?style=for-the-badge&logo=gmail&logoColor=f92672&labelColor=1e1f1c)](mailto:)
-[![See My Work](https://img.shields.io/badge/◈%20See%20My%20Work-272822?style=for-the-badge&logo=vercel&logoColor=66d9ef&labelColor=1e1f1c)](https://etrnkz.vercel.app)
-
-<br/>
 
