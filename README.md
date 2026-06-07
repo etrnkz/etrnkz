@@ -69,14 +69,18 @@ DM: @etrnkz (Telegram)
 
 **`0x0030`** `featured projects`
 
-| REPO | LANG | STARS | DESC |
-|------|------|-------|------|
-| [chatgpt-unofficial-api](https://github.com/etrnkz/chatgpt-unofficial-api) | ![](https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=000) | ![](https://img.shields.io/badge/★-1-dc143c?style=flat-square) | Unofficial Node.js client for ChatGPT. No login. |
-| [gemini-unofficial-api](https://github.com/etrnkz/gemini-unofficial-api) | ![](https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=000) | ![](https://img.shields.io/badge/★-1-dc143c?style=flat-square) | Reverse-engineered Node.js client for Google Gemini. |
-| [NullCrypt](https://github.com/etrnkz/NullCrypt) | ![](https://img.shields.io/badge/Rust-000?style=flat-square&logo=rust&logoColor=dea584) | ![](https://img.shields.io/badge/★-1-dc143c?style=flat-square) | Encryption tool built in Rust. |
-| [black-box-unofficial-api](https://github.com/etrnkz/black-box-unoffcial-api) | ![](https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=python&logoColor=ffd43b) | ![](https://img.shields.io/badge/★-1-dc143c?style=flat-square) | Unofficial API client for Blackbox AI. |
-| [fancy-Agent](https://github.com/etrnkz/fancy-Agent) | ![](https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=python&logoColor=ffd43b) | ![](https://img.shields.io/badge/★-1-dc143c?style=flat-square) | AI agent framework. |
-| [freeDogs](https://github.com/etrnkz/freeDogs) | ![](https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=python&logoColor=ffd43b) | ![](https://img.shields.io/badge/★-3-dc143c?style=flat-square) | Telegram clicker automation bot. |
+- **[chatgpt-unofficial-api](https://github.com/etrnkz/chatgpt-unofficial-api)** ![](https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=000) ![](https://img.shields.io/badge/star-1-dc143c?style=flat-square)
+  > Unofficial Node.js client for ChatGPT. No login required.
+- **[gemini-unofficial-api](https://github.com/etrnkz/gemini-unofficial-api)** ![](https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=000) ![](https://img.shields.io/badge/star-1-dc143c?style=flat-square)
+  > Reverse-engineered Node.js client for Google Gemini.
+- **[NullCrypt](https://github.com/etrnkz/NullCrypt)** ![](https://img.shields.io/badge/Rust-000?style=flat-square&logo=rust&logoColor=dea584) ![](https://img.shields.io/badge/star-1-dc143c?style=flat-square)
+  > Encryption tool built in Rust.
+- **[black-box-unofficial-api](https://github.com/etrnkz/black-box-unoffcial-api)** ![](https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=python&logoColor=ffd43b) ![](https://img.shields.io/badge/star-1-dc143c?style=flat-square)
+  > Unofficial API client for Blackbox AI.
+- **[fancy-Agent](https://github.com/etrnkz/fancy-Agent)** ![](https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=python&logoColor=ffd43b) ![](https://img.shields.io/badge/star-1-dc143c?style=flat-square)
+  > AI agent framework.
+- **[freeDogs](https://github.com/etrnkz/freeDogs)** ![](https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=python&logoColor=ffd43b) ![](https://img.shields.io/badge/star-3-dc143c?style=flat-square)
+  > Telegram clicker automation bot.
 
 ---
 
