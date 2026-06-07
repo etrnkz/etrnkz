@@ -109,5 +109,3 @@ struct Etrnkz {
 </div>
 
 <br/>
-
-<img src="https://raw.githubusercontent.com/etrnkz/etrnkz/master/decoder.svg" alt="ETRNKZ" width="100%">
