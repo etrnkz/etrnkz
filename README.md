@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,30:0a0a0a,60:111111,100:1a1a2e&height=280&section=header&text=ETRNKZ&fontSize=130&fontColor=dc143c&fontAlignY=55&desc=reverse.engineer%20%E2%80%A2%20bot_eng%20%E2%80%A2%20eth%2Fgoba&descSize=18&descColor=888888&descAlignY=75&stroke=dc143c&strokeWidth=1&animation=twinkling" width="100%"/>
+<img src="https://raw.githubusercontent.com/etrnkz/etrnkz/master/banner3d.svg" alt="ETRNKZ :: Reverse Engineer" width="100%">
 
 <div align="center">
 
@@ -6,10 +6,10 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=dc143c)](https://etrnkz.vercel.app)
-[![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=dc143c)](https://t.me/etrnkz)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=dc143c)](https://linkedin.com/in/etrnkz)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=dc143c)](https://github.com/etrnkz)
+[![Portfolio](https://img.shields.io/badge/-PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=dc143c)](https://etrnkz.vercel.app)
+[![Telegram](https://img.shields.io/badge/-TELEGRAM-26A5E4?style=for-the-badge&logo=telegram&logoColor=dc143c)](https://t.me/etrnkz)
+[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=dc143c)](https://linkedin.com/in/etrnkz)
+[![GitHub](https://img.shields.io/badge/-GITHUB-181717?style=for-the-badge&logo=github&logoColor=dc143c)](https://github.com/etrnkz)
 [![Available](https://img.shields.io/badge/-AVAILABLE-00c853?style=for-the-badge&logoColor=000000)](https://t.me/etrnkz)
 
 </div>
@@ -70,12 +70,6 @@ class Etrnkz:
 
 <br/>
 
-[![Stars](https://img.shields.io/badge/★-97-dc143c?style=flat-square&labelColor=111)](https://github.com/etrnkz?tab=repositories)
-[![Followers](https://img.shields.io/badge/♥-117-dc143c?style=flat-square&labelColor=111)](https://github.com/etrnkz?tab=followers)
-[![Repos](https://img.shields.io/badge/▣-25-dc143c?style=flat-square&labelColor=111)](https://github.com/etrnkz?tab=repositories)
-
-<br/>
-
 ---
 
 ### &nbsp;`$ ./build.sh`
@@ -96,4 +90,4 @@ class Etrnkz:
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:111111,100:000000&height=120&section=footer&reversal=false" width="100%"/>
+<img src="https://raw.githubusercontent.com/etrnkz/etrnkz/master/banner3d.svg" alt="ETRNKZ" width="100%">
