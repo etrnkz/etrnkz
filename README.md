@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/etrnkz/etrnkz/master/banner3d.svg" alt="ETRNKZ :: Reverse Engineer" width="100%">
+<img src="https://raw.githubusercontent.com/etrnkz/etrnkz/master/decoder.svg" alt="ETRNKZ :: Reverse Engineer" width="100%">
 
 <div align="center">
 
@@ -120,4 +120,4 @@ $ ./whoami --decode --raw
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/etrnkz/etrnkz/master/banner3d.svg" alt="ETRNKZ" width="100%">
+<img src="https://raw.githubusercontent.com/etrnkz/etrnkz/master/decoder.svg" alt="ETRNKZ" width="100%">
