@@ -6,11 +6,11 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/-PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=dc143c)](https://etrnkz.vercel.app)
-[![Telegram](https://img.shields.io/badge/-TELEGRAM-26A5E4?style=for-the-badge&logo=telegram&logoColor=dc143c)](https://t.me/etrnkz)
-[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=dc143c)](https://linkedin.com/in/etrnkz)
-[![GitHub](https://img.shields.io/badge/-GITHUB-181717?style=for-the-badge&logo=github&logoColor=dc143c)](https://github.com/etrnkz)
-[![Available](https://img.shields.io/badge/-AVAILABLE-00c853?style=for-the-badge&logoColor=000000)](https://t.me/etrnkz)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-272822?style=for-the-badge&logo=vercel&logoColor=f92672&labelColor=1e1f1c)](https://etrnkz.vercel.app)
+[![Telegram](https://img.shields.io/badge/TELEGRAM-272822?style=for-the-badge&logo=telegram&logoColor=ae81ff&labelColor=1e1f1c)](https://t.me/etrnkz)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-272822?style=for-the-badge&logo=linkedin&logoColor=fd971f&labelColor=1e1f1c)](https://linkedin.com/in/etrnkz)
+[![GitHub](https://img.shields.io/badge/GITHUB-272822?style=for-the-badge&logo=github&logoColor=66d9ef&labelColor=1e1f1c)](https://github.com/etrnkz)
+[![Available](https://img.shields.io/badge/AVAILABLE-272822?style=for-the-badge&logoColor=a6e22e&labelColor=1e1f1c)](https://t.me/etrnkz)
 
 </div>
 
