@@ -28,50 +28,36 @@ struct Etrnkz {
     role:     &str = "Reverse Engineer / Backend Developer",
     locale:   &str = "Ethiopia / Goba",
     status:   &str = "AVAILABLE",
+
+    core: [&str; 3] = [
+        "Task Automation   [ACTIVE]",
+        "Bot Engineering   [ACTIVE]",
+        "API Wrapping      [ACTIVE]",
+    ],
+
+    lang: Map<&str, &str> = map!{
+        "Python"      => "MASTERED",
+        "JavaScript"  => "MASTERED",
+        "TypeScript"  => "PROFICIENT",
+        "Rust"        => "PROFICIENT",
+        "Prolog"      => "LEARNING",
+    },
+
+    stack: [&str; 4] = [
+        "Node.js", "Docker", "PostgreSQL", "Telegram API",
+    ],
+
+    focus: [&str; 3] = [
+        "Reverse Engineering",
+        "Security Research",
+        "Unofficial APIs",
+    ],
+
+    fn contact() -> &str { "@etrnkz (Telegram)" }
 }
 ```
 
 </div>
-
-### &nbsp;`> capabilities`
-
-<br/>
-
-- ▸ **Task Automation** &nbsp; ![](https://img.shields.io/badge/ACTIVE-00c853?style=flat-square)
-- ▸ **Bot Engineering** &nbsp; ![](https://img.shields.io/badge/ACTIVE-00c853?style=flat-square)
-- ▸ **API Wrapping** &nbsp; &nbsp;&nbsp;&nbsp; ![](https://img.shields.io/badge/ACTIVE-00c853?style=flat-square)
-
-<br/>
-
-### &nbsp;`> languages`
-
-<br/>
-
-- ▸ **Python** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![](https://img.shields.io/badge/MASTERED-dc143c?style=flat-square)
-- ▸ **JavaScript** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![](https://img.shields.io/badge/MASTERED-dc143c?style=flat-square)
-- ▸ **TypeScript** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![](https://img.shields.io/badge/PROFICIENT-ff8c00?style=flat-square)
-- ▸ **Rust** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![](https://img.shields.io/badge/PROFICIENT-ff8c00?style=flat-square)
-- ▸ **Prolog** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![](https://img.shields.io/badge/LEARNING-555?style=flat-square)
-
-<br/>
-
-### &nbsp;`> stack`
-
-`Node.js` `Docker` `PostgreSQL` `Telegram API`
-
-<br/>
-
-### &nbsp;`> focus`
-
-- ▸ **Reverse Engineering**
-- ▸ **Security Research**
-- ▸ **Unofficial APIs**
-
-<br/>
-
-### &nbsp;`> contact`
-
-**DM:** [@etrnkz](https://t.me/etrnkz) **(Telegram)**
 
 <br clear="right"/>
 
