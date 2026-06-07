@@ -16,53 +16,19 @@
 
 <br/>
 
----
-
-### &nbsp;`$ cat /proc/etrnkz`
-
-<div align="center">
+<div>
 
 ```rust
 struct Etrnkz {
-    name:   &str = "Etrnkz",
-    role:   &str = "Reverse Engineer / Backend Developer",
-    locale: &str = "Ethiopia / Goba",
-    status: &str = "AVAILABLE",
-    dm:     &str = "@etrnkz (Telegram)",
-}
-```
-
-<br/>
-
-```
 CORE  ▸ Task Automation  Bot Engineering  API Wrapping
 LANG  ▸ Python  JavaScript  TypeScript  Rust  Prolog
 STACK ▸ Node.js  Docker  PostgreSQL  Telegram API
 FOCUS ▸ Reverse Engineering  Security Research  Unofficial APIs
+}
 ```
 
 </div>
 
-<br clear="right"/>
-
----
-
-### &nbsp;`$ ls ./projects/`
-
-<br/>
-
-[![chatgpt-unofficial-api](https://img.shields.io/badge/chatgpt--unofficial--api-f7df1e?style=for-the-badge&logo=javascript&logoColor=000&label=JavaScript)](https://github.com/etrnkz/chatgpt-unofficial-api)
-[![gemini-unofficial-api](https://img.shields.io/badge/gemini--unofficial--api-f7df1e?style=for-the-badge&logo=javascript&logoColor=000&label=JavaScript)](https://github.com/etrnkz/gemini-unofficial-api)
-[![NullCrypt](https://img.shields.io/badge/NullCrypt-000?style=for-the-badge&logo=rust&logoColor=dea584&label=Rust)](https://github.com/etrnkz/NullCrypt)
-[![black-box-unofficial-api](https://img.shields.io/badge/black--box--unofficial--api-3776ab?style=for-the-badge&logo=python&logoColor=ffd43b&label=Python)](https://github.com/etrnkz/black-box-unoffcial-api)
-[![fancy-Agent](https://img.shields.io/badge/fancy--Agent-3776ab?style=for-the-badge&logo=python&logoColor=ffd43b&label=Python)](https://github.com/etrnkz/fancy-Agent)
-[![freeDogs](https://img.shields.io/badge/freeDogs-3776ab?style=for-the-badge&logo=python&logoColor=ffd43b&label=Python)](https://github.com/etrnkz/freeDogs)
-
-<br/>
-
----
-
-### &nbsp;`$ ./build.sh`
 
 <br/>
 
@@ -74,8 +40,3 @@ FOCUS ▸ Reverse Engineering  Security Research  Unofficial APIs
 
 <br/>
 
-> *"I don't break things — I understand how they work."*
-
-</div>
-
-<br/>
