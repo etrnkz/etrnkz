@@ -1,15 +1,4 @@
-<div style="background:#080808;border:1px solid #1a1a1a;border-radius:4px;overflow:hidden;box-shadow:0 0 40px rgba(220,20,60,.06);transform:perspective(2000px) rotateX(.3deg);box-shadow:-8px 8px 40px rgba(0,0,0,.4),0 0 60px rgba(220,20,60,.04),inset 0 0 60px rgba(220,20,60,.015)">
-
-<!-- Terminal Title Bar -->
-<div style="background:#0a0a0a;border-bottom:1px solid #151515;padding:8px 14px;display:flex;align-items:center;gap:8px;font-family:'Courier New',monospace">
-  <span style="display:inline-block;width:10px;height:10px;border-radius:50%;background:#333;border:1px solid #1a1a1a;box-shadow:inset 0 0 4px rgba(0,0,0,.5)"></span>
-  <span style="display:inline-block;width:10px;height:10px;border-radius:50%;background:#333;border:1px solid #1a1a1a;box-shadow:inset 0 0 4px rgba(0,0,0,.5)"></span>
-  <span style="display:inline-block;width:10px;height:10px;border-radius:50%;background:#dc143c;border:1px solid #dc143c;opacity:.4;box-shadow:0 0 6px rgba(220,20,60,.2),inset 0 0 4px rgba(0,0,0,.5)"></span>
-  <span style="color:#444;font-size:9px;letter-spacing:2px;margin-left:8px;text-shadow:0 0 4px rgba(220,20,60,.05)">terminal &mdash; etrnkz@github:~/profile</span>
-  <span style="margin-left:auto;color:#222;font-size:9px">&#x2716;</span>
-</div>
-
-<div style="padding:28px 24px 24px;background:#050505;transform:perspective(2000px) rotateX(.2deg)">
+<div style="background:#050505;border:1px solid #1a1a1a;padding:28px 24px 24px;transform:perspective(2000px) rotateX(.3deg);box-shadow:-8px 8px 40px rgba(0,0,0,.4),0 0 60px rgba(220,20,60,.04),inset 0 0 60px rgba(220,20,60,.015)">
 
 <div align="center">
 
@@ -206,7 +195,4 @@ $ <span style="color:#dc143c">Let's build something.</span>
 [ <span style="color:#dc143c">process exited with code 0x0</span> ]
 </div>
 
-</div>
-
-</div>
 </div>
