@@ -24,37 +24,21 @@
 
 ```rust
 struct Etrnkz {
-    name:     &str = "Etrnkz",
-    role:     &str = "Reverse Engineer / Backend Developer",
-    locale:   &str = "Ethiopia / Goba",
-    status:   &str = "AVAILABLE",
-
-    core: [&str; 3] = [
-        "Task Automation   [ACTIVE]",
-        "Bot Engineering   [ACTIVE]",
-        "API Wrapping      [ACTIVE]",
-    ],
-
-    lang: Map<&str, &str> = map!{
-        "Python"      => "MASTERED",
-        "JavaScript"  => "MASTERED",
-        "TypeScript"  => "PROFICIENT",
-        "Rust"        => "PROFICIENT",
-        "Prolog"      => "LEARNING",
-    },
-
-    stack: [&str; 4] = [
-        "Node.js", "Docker", "PostgreSQL", "Telegram API",
-    ],
-
-    focus: [&str; 3] = [
-        "Reverse Engineering",
-        "Security Research",
-        "Unofficial APIs",
-    ],
-
-    fn contact() -> &str { "@etrnkz (Telegram)" }
+    name:   &str = "Etrnkz",
+    role:   &str = "Reverse Engineer / Backend Developer",
+    locale: &str = "Ethiopia / Goba",
+    status: &str = "AVAILABLE",
+    dm:     &str = "@etrnkz (Telegram)",
 }
+```
+
+<br/>
+
+```
+CORE  ▸ Task Automation  Bot Engineering  API Wrapping
+LANG  ▸ Python  JavaScript  TypeScript  Rust  Prolog
+STACK ▸ Node.js  Docker  PostgreSQL  Telegram API
+FOCUS ▸ Reverse Engineering  Security Research  Unofficial APIs
 ```
 
 </div>
